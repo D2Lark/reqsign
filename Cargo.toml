@@ -36,5 +36,5 @@ tokio = { version = "1.17", features = ["full"] }
 aws-sigv4 = "0.9"
 criterion = { version = "0.3", features = ["async_tokio", "html_reports"] }
 dotenv = "0.15"
-env_logger = "0.9"
+env_logger = "0.10"
 temp-env = "0.2"
